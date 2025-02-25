@@ -13,4 +13,4 @@ And this specific repository is about the Capture CIS Lite software, which is us
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/e_Capture_CIS_Lite.png)](https://dicer0.com/#skills)
+[![Capture CIS](http://dicer0.com/wp-content/uploads/2023/09/e_Capture_CIS_Lite.png)](https://dicer0.com/#skills)
